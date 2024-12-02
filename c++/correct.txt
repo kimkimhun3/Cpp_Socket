@@ -1,0 +1,1 @@
+ g++ udpBuffering.cpp -o udpBuffering.exe -lws2_32 -static-libstdc++ -static-libgcc
